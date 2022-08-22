@@ -2,8 +2,11 @@
 
 # Proyectos-Algoritmos
 **Nombre:** Juan Jose Figueroa Padilla
+
 **Correo:** jufigueroap@unal.edu.co
+
 **Presentado para:** Algoritmos (Diego Camilo Talero)
+
 **Fecha de publicación:** 22 de octubre de 2022
 
 ## Índice
